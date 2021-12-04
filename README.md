@@ -3,15 +3,19 @@ Smart Care Bot
 
 목표기능
     1. 환자인식 및 추적 모니터링
+	
     2. 라이다 센서를 통한 집안 구조 인식
+	
     3. 위험 케이스 정의
+	
     4. 유사시 보호자 알람통지
 
 1. 환자인식 및 추적 모니터링
+
 1-1. 환자인식
 face_recognition를 통하여 등록된 환자 인식
 
-/usr/bin/python3 -m pip install --upgrade pip
+
 참조소스 출처:
 https://github.com/ageitgey/face_recognition
 
