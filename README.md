@@ -1,4 +1,4 @@
-Smart Care Bot
+스마트 케어봇_2021 AI/로봇 해커톤 in 마곡_계곡헌터
 
     상시 주의관리가 필요한 치매 환자를 모니터링하고 유사시 보호자에게 알람 통지
 
@@ -27,3 +27,14 @@ https://github.com/ageitgey/face_recognition
 https://github.com/NVIDIA-AI-IOT/jetbot
 
 http://www.yahboom.net/study/jetbot
+
+*팀원
+
+박병철
+
+한상범
+
+최민수
+
+황윤자
+
