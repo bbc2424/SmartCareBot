@@ -25,3 +25,5 @@ https://github.com/ageitgey/face_recognition
 1-2. 추적 모니터링
 
 https://github.com/NVIDIA-AI-IOT/jetbot
+
+http://www.yahboom.net/study/jetbot
