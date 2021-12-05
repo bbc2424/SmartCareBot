@@ -28,13 +28,15 @@ https://github.com/NVIDIA-AI-IOT/jetbot
 
 http://www.yahboom.net/study/jetbot
 
+
+
 *팀원
 
-박병철
+	박병철
 
-한상범
+	한상범
 
-최민수
+	최민수
 
-황윤자
+	황윤자
 
