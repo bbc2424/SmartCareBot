@@ -14,19 +14,19 @@
 
 1. 환자인식 및 추적 모니터링
 
-1-1. 환자인식
+	1-1. 환자인식
 
-face_recognition를 통하여 등록된 환자 인식
+	face_recognition를 통하여 등록된 환자 인식
 
 
-참조소스 출처:
-https://github.com/ageitgey/face_recognition
+	참조소스 출처:
+	https://github.com/ageitgey/face_recognition
 
-1-2. 추적 모니터링
+	1-2. 추적 모니터링
 
-https://github.com/NVIDIA-AI-IOT/jetbot
+	https://github.com/NVIDIA-AI-IOT/jetbot
 
-http://www.yahboom.net/study/jetbot
+	http://www.yahboom.net/study/jetbot
 
 
 
